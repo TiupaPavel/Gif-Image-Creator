@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y7XSlMbQrbhJz2oUUpwGv93U2r6zq4+in5HSgXbOc+IHg6raM9WtfD9z11d3Ia83i0rvBBp7cGuz5rqYeAo3pw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\+\\Gif Image Creator Code\\Gif Image Creator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\ffmpeg.autogen\\6.1.0\\ffmpeg.autogen.6.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\ffmpeg.net\\1.1.0\\ffmpeg.net.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\magick.net-q8-x64\\13.5.0\\magick.net-q8-x64.13.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\magick.net.core\\13.5.0\\magick.net.core.13.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nito.asyncex\\5.1.2\\nito.asyncex.5.1.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.context\\5.1.2\\nito.asyncex.context.5.1.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.coordination\\5.1.2\\nito.asyncex.coordination.5.1.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.interop.waithandles\\5.1.2\\nito.asyncex.interop.waithandles.5.1.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.oop\\5.1.2\\nito.asyncex.oop.5.1.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.tasks\\5.1.2\\nito.asyncex.tasks.5.1.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nito.cancellation\\1.1.2\\nito.cancellation.1.1.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nito.collections.deque\\1.1.1\\nito.collections.deque.1.1.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nito.disposables\\2.2.1\\nito.disposables.2.2.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.23\\microsoft.aspnetcore.app.runtime.win-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.23\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.23\\microsoft.netcore.app.runtime.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
