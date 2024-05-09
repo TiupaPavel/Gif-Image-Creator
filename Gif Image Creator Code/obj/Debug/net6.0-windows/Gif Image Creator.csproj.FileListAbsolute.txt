@@ -1,0 +1,109 @@
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.exe
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.deps.json
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.runtimeconfig.json
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.pdb
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\FFmpeg.AutoGen.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\FFmpeg.Net.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Magick.NET-Q8-x64.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Magick.NET.Core.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Context.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Coordination.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Interop.WaitHandles.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Oop.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Tasks.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.Cancellation.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.Collections.Deque.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.Disposables.dll
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\Magick.Native-Q8-x64.dll.so
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\linux-x64\native\Magick.Native-Q8-x64.dll.so
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\osx-x64\native\Magick.Native-Q8-x64.dll.dylib
+C:\Projects\-\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\win-x64\native\Magick.Native-Q8-x64.dll
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.AssemblyReference.cache
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\Task_9.Form1.resources
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.GenerateResource.cache
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.AssemblyInfoInputs.cache
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.AssemblyInfo.cs
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.CoreCompileInputs.cache
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.CopyComplete
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.dll
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\refint\Gif Image Creator.dll
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.pdb
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.genruntimeconfig.cache
+C:\Projects\-\Gif Image Creator Code\obj\Debug\net6.0-windows\ref\Gif Image Creator.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.exe
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.deps.json
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.runtimeconfig.json
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.pdb
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\FFmpeg.AutoGen.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\FFmpeg.Net.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Magick.NET-Q8-x64.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Magick.NET.Core.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Context.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Coordination.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Interop.WaitHandles.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Oop.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Tasks.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.Cancellation.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.Collections.Deque.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.Disposables.dll
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\Magick.Native-Q8-x64.dll.so
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\linux-x64\native\Magick.Native-Q8-x64.dll.so
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\osx-x64\native\Magick.Native-Q8-x64.dll.dylib
+C:\Projects\+\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\win-x64\native\Magick.Native-Q8-x64.dll
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.AssemblyReference.cache
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Task_9.Form1.resources
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.GenerateResource.cache
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.AssemblyInfoInputs.cache
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.AssemblyInfo.cs
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.CoreCompileInputs.cache
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.dll
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\refint\Gif Image Creator.dll
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.pdb
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.genruntimeconfig.cache
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\ref\Gif Image Creator.dll
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.CopyComplete
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif_Image_Creator.Developer.resources
+C:\Projects\+\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif_Image_Creator.Form3.resources
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.exe
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.deps.json
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.runtimeconfig.json
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Gif Image Creator.pdb
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\FFmpeg.AutoGen.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\FFmpeg.Net.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Magick.NET-Q8-x64.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Magick.NET.Core.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Context.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Coordination.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Interop.WaitHandles.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Oop.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.AsyncEx.Tasks.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.Cancellation.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.Collections.Deque.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\Nito.Disposables.dll
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\Magick.Native-Q8-x64.dll.so
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\linux-x64\native\Magick.Native-Q8-x64.dll.so
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\osx-x64\native\Magick.Native-Q8-x64.dll.dylib
+C:\Projects\Gif Image Creator Code\bin\Debug\net6.0-windows\runtimes\win-x64\native\Magick.Native-Q8-x64.dll
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.AssemblyReference.cache
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Task_9.Form1.resources
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif_Image_Creator.Form2.resources
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif_Image_Creator.Form3.resources
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.GenerateResource.cache
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.AssemblyInfoInputs.cache
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.AssemblyInfo.cs
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.CoreCompileInputs.cache
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.csproj.CopyComplete
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.dll
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\refint\Gif Image Creator.dll
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.pdb
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif Image Creator.genruntimeconfig.cache
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\ref\Gif Image Creator.dll
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif_Image_Creator.Form4.resources
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif_Image_Creator.Form5.resources
+C:\Projects\Gif Image Creator Code\obj\Debug\net6.0-windows\Gif_Image_Creator.Form6.resources
