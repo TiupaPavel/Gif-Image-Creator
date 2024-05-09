@@ -1,3 +1,2 @@
-# Gif-Image-Creator
+# Gif_Image_Creator
 Create your own GIF) 
-Important: photo sizes must be the same!
