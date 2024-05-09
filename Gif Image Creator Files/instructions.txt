@@ -1,2 +1,0 @@
-Step 1: unzip the files into the folder itself where they are located (delete the other folder);
-Step 2: unzip the rest in the runtimes folder.
